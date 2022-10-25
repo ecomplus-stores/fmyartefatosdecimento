@@ -8,7 +8,7 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/img_20190502_084113_987.jpg",
+          "img": "/img/uploads/screenshot_20211021-160753~2.png",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
@@ -25,10 +25,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -42,6 +38,10 @@
       "type": "page-title",
       "title": "FMY ARTEFATOS DE CIMENTO",
       "description": "Loja de material de construção e artefatos de cimento."
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
