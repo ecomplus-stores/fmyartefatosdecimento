@@ -20,26 +20,25 @@
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": true,
     "visa": true,
     "boleto": true,
-    "aura": false,
-    "banrisul": false,
+    "aura": true,
+    "banrisul": true,
     "elo": true,
-    "hipercard": false,
-    "hsbc": false,
+    "hipercard": true,
+    "hsbc": true,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
-    "citibank": false,
-    "mais": false,
+    "paypal": true,
+    "citibank": true,
+    "hiper": true,
+    "diners": true,
+    "mais": true,
+    "amex": true,
     "itau": true
   },
   "credits": ""
