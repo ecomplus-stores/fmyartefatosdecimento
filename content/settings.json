@@ -3,13 +3,13 @@
   "currency_symbol": "R$",
   "primary_color": "#020a16",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/screenshot_20211021-160753~2.png",
-  "name": "fmyartefatosdecimento",
-  "short_name": "fmyartefatosdecimento",
+  "name": "Fmyartefatosdecimento",
+  "short_name": "Fmyartefatosdecimento",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -20,6 +20,6 @@
   "secondary_color": "#424851",
   "icon": "/img/uploads/screenshot_20211021-160753~2.png",
   "store_id": 34217,
-  "description": "fmyartefatosdecimento ",
+  "description": "FMY  a sua loja  de artefatos de cimento",
   "large_icon": "/img/uploads/screenshot_20211021-160753~2.png"
 }
