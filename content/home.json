@@ -13,7 +13,7 @@
       "sort": "slug",
       "title": "",
       "headless": false,
-      "limit": 12,
+      "limit": 4,
       "page": 1
     },
     {
