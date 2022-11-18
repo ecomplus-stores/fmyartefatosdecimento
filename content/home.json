@@ -8,7 +8,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": null,
       "sort": "slug",
       "title": "",
