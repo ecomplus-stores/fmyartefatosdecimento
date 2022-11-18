@@ -1,7 +1,7 @@
 {
   "domain": "fmyartefatosdecimento.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#020a16",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -14,12 +14,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/img_20190502_084113_987.jpg",
+  "favicon": "/img/uploads/my-project.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/uploads/img_20190502_084113_987.jpg",
+  "secondary_color": "#424851",
+  "icon": "/img/uploads/screenshot_20211021-160753~2.png",
   "store_id": 34217,
   "description": "fmyartefatosdecimento ",
-  "large_icon": "/img/uploads/img_20181122_154932_044.jpg"
+  "large_icon": "/img/uploads/screenshot_20211021-160753~2.png"
 }
