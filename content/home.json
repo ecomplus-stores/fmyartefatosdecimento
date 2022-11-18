@@ -1,10 +1,14 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "fábrica de artefatos de cimento",
+  "meta_description": "fábrica de artefatos de cimento",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": null,
       "sort": "slug",
       "title": "",
@@ -18,7 +22,7 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/screenshot_20211021-160753~2.png",
+          "img": "/img/uploads/img_20200726_171038600.jpg",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
@@ -33,10 +37,6 @@
           "mobile_img": "/img/uploads/passion.webp"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
