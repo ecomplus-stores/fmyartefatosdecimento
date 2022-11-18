@@ -20,14 +20,18 @@
     "email": true,
     "address": true
   },
-  "stamps": [],
+  "stamps": [
+    {
+      "src": "/img/uploads/ssl-safe.png"
+    }
+  ],
   "payment_methods": {
     "bb": true,
     "visa": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
-    "elo": true,
+    "elo": false,
     "hipercard": false,
     "hsbc": true,
     "bradesco": true,
@@ -36,9 +40,9 @@
     "paypal": true,
     "citibank": true,
     "hiper": false,
-    "diners": false,
+    "diners": true,
     "mais": false,
-    "amex": true,
+    "amex": false,
     "itau": true
   },
   "credits": ""
