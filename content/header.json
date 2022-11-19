@@ -1,20 +1,56 @@
 {
   "marketing_stripe": {
     "text": "A sua fábrica de artefatos de cimento.",
-    "link": ""
+    "link": "",
+    "background": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "BALAÚSTRES"
+      },
+      {
+        "title": "CAPA DE MURO (PINGADEIRA)"
+      },
+      {
+        "title": "CONCREGRAMA"
+      },
+      {
+        "title": "PISOS"
+      },
+      {
+        "title": "DRENANTE"
+      },
+      {
+        "title": "ELEMENTOS VAZADOS (COBOGÓ)"
+      },
+      {
+        "title": "JARDIM"
+      },
+      {
+        "link": "MEIO FIO",
+        "title": "MEIO FIO"
+      },
+      {
+        "title": "OUTROS"
+      },
+      {
+        "title": "PISADEIRAS"
+      },
+      {
+        "title": "REVESTIMENTOS"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 4,
     "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": false
+  "full_width_submenu": true
 }
