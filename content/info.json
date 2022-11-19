@@ -8,11 +8,11 @@
     "text": "Parcelamento em até 12x "
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": ""
   }
 }
