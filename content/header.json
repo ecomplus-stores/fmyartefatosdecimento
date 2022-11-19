@@ -5,44 +5,7 @@
     "background": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Pisos"
-      },
-      {
-        "title": "Elementos vazados (cobogó)"
-      },
-      {
-        "title": "Concregramas"
-      },
-      {
-        "title": "Revestimentos"
-      },
-      {
-        "title": "Acessibilidade"
-      },
-      {
-        "title": "Meio fio"
-      },
-      {
-        "title": "Drenante"
-      },
-      {
-        "title": "Outros"
-      },
-      {
-        "title": "Balaústre"
-      },
-      {
-        "title": "Pisadeira"
-      },
-      {
-        "title": "Jardim "
-      },
-      {
-        "title": "Capa de muro (pingadeira)"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
