@@ -5,7 +5,11 @@
     "background": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Não andem ansiosos por coisa alguma, mas em tudo, pela oração e súplicas, e com ação de graças, apresentem seus pedidos a Deus. Filipenses 4:6"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
