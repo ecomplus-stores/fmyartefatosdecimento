@@ -1,7 +1,8 @@
 {
   "sections": [
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Acessibilidade"
     },
     {
       "type": "breadcrumbs",
