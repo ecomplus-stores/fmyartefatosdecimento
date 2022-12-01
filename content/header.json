@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "A sua fábrica de artefatos de cimento.",
     "link": "",
-    "background": ""
+    "background": "#264653",
+    "color": "#2a9d8f"
   },
   "contacts_stripe": {
     "pages": [
