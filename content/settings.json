@@ -1,12 +1,12 @@
 {
   "domain": "fmyartefatosdecimento.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#020a16",
+  "primary_color": "#264653",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#264653",
   "logo": "/img/uploads/screenshot_20211021-160753~2.png",
   "name": "FMY ARTEFATOS DE CIMENTO",
   "short_name": "FMY ARTEFATOS ",
@@ -14,10 +14,10 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/my-project.jpg",
+  "favicon": "/img/uploads/screenshot_20211021-160753~2.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#424851",
+  "secondary_color": "#2a9d8f",
   "icon": "/img/uploads/screenshot_20211021-160753~2.png",
   "store_id": 34217,
   "description": " A sua fábrica de artefatos de cimento",
