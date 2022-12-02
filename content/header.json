@@ -3,7 +3,7 @@
     "text": "A sua fábrica de artefatos de cimento.",
     "link": "",
     "background": "#264653",
-    "color": "#2a9d8f"
+    "color": "#17534c"
   },
   "contacts_stripe": {
     "pages": [
@@ -16,7 +16,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 12,
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
