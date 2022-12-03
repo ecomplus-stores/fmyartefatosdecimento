@@ -3,20 +3,6 @@
   "meta_description": "fábrica de artefatos de cimento",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": null,
-      "sort": "slug",
-      "title": "",
-      "headless": false,
-      "limit": 20,
-      "page": 1
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -37,6 +23,20 @@
           "mobile_img": "/img/uploads/img-20201219-wa0138.jpg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": null,
+      "sort": "slug",
+      "title": "",
+      "headless": false,
+      "limit": 20,
+      "page": 1
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
