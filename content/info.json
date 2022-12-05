@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entrega feita mediante cotação de frete."
+    "text": "Entrega mediante cotação de frete.(FOB)"
   },
   "installments": {
     "show": true,
