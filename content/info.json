@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entrega feita por transportadora, mediante cotação de frete."
+    "text": "Entrega feita mediante cotação de frete."
   },
   "installments": {
     "show": true,
