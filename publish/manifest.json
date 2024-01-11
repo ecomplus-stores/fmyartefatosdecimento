@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a567285ede6eca7fb859209fbbe1a39e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.9a75b60d2626198e3c7f0f2cd1dd0e45.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ed5bee820fd536def744e59ce86dc409.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d9526d373cbc73d0c77e0f612ea97ad4.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3f8d91fa13fc43208851a10025e74820.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "FMY ARTEFATOS DE CIMENTO",
+  "short_name": "FMY ARTEFATOS ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": " A sua fábrica de artefatos de cimento",
+  "background_color": "#264653",
+  "theme_color": "#264653"
+}
